@@ -10,17 +10,17 @@ import { AnalyticsService } from './utils/analytics.service';
 
 const socialLinks = [
   {
-    url: 'https://github.com/akveo/nebular',
+    url: 'https://github.com/alexlim/nebular',
     target: '_blank',
     icon: 'socicon-github',
   },
   {
-    url: 'https://www.facebook.com/akveo/',
+    url: 'https://www.facebook.com/alexlim/',
     target: '_blank',
     icon: 'socicon-facebook',
   },
   {
-    url: 'https://twitter.com/akveo_inc',
+    url: 'https://twitter.com/alexlim_inc',
     target: '_blank',
     icon: 'socicon-twitter',
   },

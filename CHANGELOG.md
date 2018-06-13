@@ -40,7 +40,7 @@ Nebular updated to rc.6.
 ## [2.0.1](https://github.com/todaycode/ngx-admin/compare/v2.0.0...v2.0.1) (2017-10-26)
 
 
-Nebular changelog is available [here](https://github.com/akveo/nebular/blob/master/CHANGELOG.md#200-rc3-2017-10-26) for more details. 
+Nebular changelog is available [here](https://github.com/alexlim/nebular/blob/master/CHANGELOG.md#200-rc3-2017-10-26) for more details. 
 
 ### Features
 
